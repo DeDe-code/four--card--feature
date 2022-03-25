@@ -121,7 +121,7 @@ Card
   top: 0;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   border-top-left-radius: 100px;
   border-top-right-radius: 100px;
   width: 98%;
@@ -175,7 +175,7 @@ Media query
   .section-center {
     max-width: 1440px;
     -webkit-box-pack: center;
-            justify-content: center;
+    justify-content: center;
     grid-template-columns: 375px 375px;
   }
 }
@@ -199,7 +199,7 @@ Media query
   .card-2 {
     grid-area: b;
     -webkit-box-pack: end;
-            justify-content: end;
+    justify-content: end;
   }
   .card-3 {
     grid-area: c;
