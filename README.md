@@ -16,16 +16,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
-
 ### Screenshot
 
 ![](screenshots/screenshot-desktop.png)
