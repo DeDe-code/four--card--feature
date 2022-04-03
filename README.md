@@ -27,5 +27,4 @@ grid areas
 
 ## Author
 
-- Website - [Dezső Derzsi]
 - Frontend Mentor - [@yDeDe-code](https://www.frontendmentor.io/profile/DeDe-code)
